@@ -9,3 +9,4 @@
 
 # After allowing less secure apps, you'll be able to send emails from that account to any specified email. 
 # Use the Example of CSV and insert your IPs and Hostnames, Hostnames can be left blank, but you'll only receive the IP address in the email and hostname may appear as NULL. 
+# This script is provided AS IS and has no warranty whatsoever. I am not responsible for any damage done to any entity due to anything pertaining to this project.
